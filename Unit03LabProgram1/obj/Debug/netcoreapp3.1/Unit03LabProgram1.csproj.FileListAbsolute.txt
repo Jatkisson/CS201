@@ -1,0 +1,13 @@
+C:\Users\James\source\repos\Unit03LabProgram1\bin\Debug\netcoreapp3.1\Unit03LabProgram1.exe
+C:\Users\James\source\repos\Unit03LabProgram1\bin\Debug\netcoreapp3.1\Unit03LabProgram1.deps.json
+C:\Users\James\source\repos\Unit03LabProgram1\bin\Debug\netcoreapp3.1\Unit03LabProgram1.runtimeconfig.json
+C:\Users\James\source\repos\Unit03LabProgram1\bin\Debug\netcoreapp3.1\Unit03LabProgram1.runtimeconfig.dev.json
+C:\Users\James\source\repos\Unit03LabProgram1\bin\Debug\netcoreapp3.1\Unit03LabProgram1.dll
+C:\Users\James\source\repos\Unit03LabProgram1\bin\Debug\netcoreapp3.1\Unit03LabProgram1.pdb
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.csprojAssemblyReference.cache
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.AssemblyInfo.cs
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.dll
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.pdb
+C:\Users\James\source\repos\Unit03LabProgram1\obj\Debug\netcoreapp3.1\Unit03LabProgram1.genruntimeconfig.cache

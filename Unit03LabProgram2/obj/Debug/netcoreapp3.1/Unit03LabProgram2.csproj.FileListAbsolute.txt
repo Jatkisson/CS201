@@ -1,0 +1,13 @@
+C:\Users\James\source\repos\Unit03LabProgram2\bin\Debug\netcoreapp3.1\Unit03LabProgram2.exe
+C:\Users\James\source\repos\Unit03LabProgram2\bin\Debug\netcoreapp3.1\Unit03LabProgram2.deps.json
+C:\Users\James\source\repos\Unit03LabProgram2\bin\Debug\netcoreapp3.1\Unit03LabProgram2.runtimeconfig.json
+C:\Users\James\source\repos\Unit03LabProgram2\bin\Debug\netcoreapp3.1\Unit03LabProgram2.runtimeconfig.dev.json
+C:\Users\James\source\repos\Unit03LabProgram2\bin\Debug\netcoreapp3.1\Unit03LabProgram2.dll
+C:\Users\James\source\repos\Unit03LabProgram2\bin\Debug\netcoreapp3.1\Unit03LabProgram2.pdb
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.csprojAssemblyReference.cache
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.AssemblyInfo.cs
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.dll
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.pdb
+C:\Users\James\source\repos\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.genruntimeconfig.cache
