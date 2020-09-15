@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\James\\Documents\\repos\\CS201\\CS201\\LoanTracker\\LoanTracker.csproj",
+      "projectUniqueName": "C:\\Users\\James\\source\\repos\\LoanTracker\\LoanTracker.csproj",
       "projectName": "LoanTracker",
-      "projectPath": "C:\\Users\\James\\Documents\\repos\\CS201\\CS201\\LoanTracker\\LoanTracker.csproj",
+      "projectPath": "C:\\Users\\James\\source\\repos\\LoanTracker\\LoanTracker.csproj",
       "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\James\\Documents\\repos\\CS201\\CS201\\LoanTracker\\obj\\",
+      "outputPath": "C:\\Users\\James\\source\\repos\\LoanTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

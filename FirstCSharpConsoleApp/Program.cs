@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 /**
  * @author James Atkisson
@@ -8,16 +9,19 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to C#!");
+        int grade = 108;
 
-        "JCCC".Equals("jccc");
+        switch (grade / 10)
+        {
+            case 10:
+            case 9:
+                Console.Write("A");
+                break;
+            default:
+                Console.Write("F");
+                break;
+        }
 
-        int i = 1;
-
-        Console.Write("Enter integer one: ");
-        if (Int32.TryParse(Console.ReadLine(), out i))
-            Console.WriteLine($"Converted to int: {i}");
-        else
-            Console.WriteLine($"Improper Integer. Value of i: {i}");
+        Console.Write(108 / 10);
     }
 }   

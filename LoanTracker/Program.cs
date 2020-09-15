@@ -1,29 +1,12 @@
 ﻿using System;
-using System.IO;
 
-/**
- * @author James Atkisson
- * Class Program assists end user with managing loans*/
-
-class Program
+namespace LoanTracker
 {
-    static void Main(string[] args)
+    class Program
     {
-        try
+        static void Main(string[] args)
         {
-            // Open the text file using a stream reader.
-            using (var sr = new StreamReader("LoanFileJamesA.txt"))
-            {
-                // Read the stream as a string, and write the string to the console.
-                Console.WriteLine(sr.ReadToEnd());
-            }
+            Console.WriteLine("Hello World!");
         }
-        catch (IOException e)
-        {
-            Console.WriteLine("The file could not be read:");
-            Console.WriteLine(e.Message);
-        }
-
     }
- 
 }
