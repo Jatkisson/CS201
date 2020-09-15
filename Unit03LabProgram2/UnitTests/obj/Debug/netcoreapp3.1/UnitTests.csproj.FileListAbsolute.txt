@@ -1,7 +1,3 @@
-C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
-C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
-C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
-C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug\netcoreapp3.1\Unit03LabProgram2.exe
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
@@ -91,6 +87,10 @@ C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug\netcoreapp3.1\Unit03LabProgram2.dll
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\bin\Debug\netcoreapp3.1\Unit03LabProgram2.pdb
+C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CopyComplete
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb

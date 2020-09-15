@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\source\repos\Unit03LabProgram2\Unit03LabProgram2.csproj" />
+    <ProjectReference Include="..\Unit03LabProgram2.csproj" />
   </ItemGroup>
 
 </Project>

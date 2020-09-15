@@ -5718,8 +5718,8 @@
     },
     "Unit03LabProgram2/1.0.0": {
       "type": "project",
-      "path": "../../../../../../source/repos/Unit03LabProgram2/Unit03LabProgram2.csproj",
-      "msbuildProject": "../../../../../../source/repos/Unit03LabProgram2/Unit03LabProgram2.csproj"
+      "path": "../Unit03LabProgram2.csproj",
+      "msbuildProject": "../Unit03LabProgram2.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5762,8 +5762,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\James\\source\\repos\\Unit03LabProgram2\\Unit03LabProgram2.csproj": {
-              "projectPath": "C:\\Users\\James\\source\\repos\\Unit03LabProgram2\\Unit03LabProgram2.csproj"
+            "C:\\Users\\James\\Documents\\repos\\CS201\\CS201\\Unit03LabProgram2\\Unit03LabProgram2.csproj": {
+              "projectPath": "C:\\Users\\James\\Documents\\repos\\CS201\\CS201\\Unit03LabProgram2\\Unit03LabProgram2.csproj"
             }
           }
         }
