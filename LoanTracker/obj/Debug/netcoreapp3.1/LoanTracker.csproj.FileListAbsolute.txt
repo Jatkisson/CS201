@@ -1,0 +1,13 @@
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\bin\Debug\netcoreapp3.1\LoanTracker.exe
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\bin\Debug\netcoreapp3.1\LoanTracker.deps.json
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\bin\Debug\netcoreapp3.1\LoanTracker.runtimeconfig.json
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\bin\Debug\netcoreapp3.1\LoanTracker.runtimeconfig.dev.json
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\bin\Debug\netcoreapp3.1\LoanTracker.dll
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\bin\Debug\netcoreapp3.1\LoanTracker.pdb
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.csprojAssemblyReference.cache
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.AssemblyInfoInputs.cache
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.AssemblyInfo.cs
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.dll
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.pdb
+C:\Users\James\Documents\repos\CS201\CS201\LoanTracker\obj\Debug\netcoreapp3.1\LoanTracker.genruntimeconfig.cache
