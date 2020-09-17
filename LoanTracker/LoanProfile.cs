@@ -4,8 +4,7 @@ using System.Text;
 
 namespace LoanTracker
 {
-    class LoanProfile
-    {
+    public class LoanProfile {
         private int principal;
         private int interestRate;
         private int monthlyPayment;
