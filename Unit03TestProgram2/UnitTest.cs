@@ -11,7 +11,10 @@ namespace UnitTests
         {
             //First Test
             ProcessInput.InputProcessor(5);
-
+        }
+        [TestMethod]
+        public void TestMethod2()
+        {
             //Second Test
             ProcessInput.InputProcessor(13);
         }

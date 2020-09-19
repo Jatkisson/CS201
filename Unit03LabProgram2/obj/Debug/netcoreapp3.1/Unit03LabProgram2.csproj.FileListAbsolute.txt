@@ -10,3 +10,4 @@ C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\obj\Debug\netcoreap
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.dll
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.pdb
 C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.genruntimeconfig.cache
+C:\Users\James\Documents\repos\CS201\CS201\Unit03LabProgram2\obj\Debug\netcoreapp3.1\Unit03LabProgram2.csprojAssemblyReference.cache
